@@ -1,6 +1,6 @@
 ---
 Layout: post
-Title: #Markdown
+Title: Markdown
 ---
-Testing out Markdown;
+#Testing out Markdown
 Hope it works
