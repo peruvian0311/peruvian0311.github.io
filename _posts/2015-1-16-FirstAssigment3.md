@@ -7,7 +7,7 @@ certain website by just clicking on it.Scratch out **HTML**
 
 Things you can do with markdown commands:
 
-+Headers
++ Headers
 +Emphasis
 +Lists
 +Links
