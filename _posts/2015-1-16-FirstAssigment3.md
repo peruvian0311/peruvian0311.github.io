@@ -6,6 +6,7 @@ Understanding markdowns is very __IMPORTANT__. They are commands that can ephasi
 certain website by just clicking on it.Scratch out **HTML**
 
 Things you can do with markdown commands:
+
 +Headers
 +Emphasis
 +Lists
