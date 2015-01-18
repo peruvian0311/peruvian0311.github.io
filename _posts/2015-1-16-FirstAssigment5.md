@@ -4,4 +4,4 @@ title: Github Questions
 ---
 #### Problems 
 - Cannot make the markdown of ~~Strike Through~~ 
-- When combining markdowns as such as italics and bold it doesnt work  *__HELLO__*
+- I need to memorize how to properly input markdowns.
