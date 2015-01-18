@@ -7,3 +7,6 @@ title: Quotes
 
 ***
 
+![alt txt](http://naqyr37xcg93tizq734pqsx1.wpengine.netdna-cdn.com/wp-content/uploads/2013/09/COlorful-Picture-Qoutes-Picture-Quotes.jpg)
+
+***
