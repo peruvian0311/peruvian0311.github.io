@@ -1,1 +1,4 @@
+---
+layout: post
+---
 some updates 
