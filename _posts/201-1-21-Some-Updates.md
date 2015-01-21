@@ -5,7 +5,7 @@ layout: post
 
 some updates for today on this site.
 
-![Arnold Supplements](https://www.vitaminking.com.au/images/M/Arnold%20logo.jpg)
+![Lifestyle](https://farm8.staticflickr.com/7561/16149093279_e2d552f3bd_b.jpg)
 
 I'm including comment using [disqus]( https://disqus.com/).
 
