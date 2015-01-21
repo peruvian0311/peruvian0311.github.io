@@ -30,7 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: * [Graphic Designer Juan Nunez Fernandez](http://peruvian0311.github.io/blog/)([source](http://peruvian0311.github.io///blog/))- Miami International University of Art & Web Design Student
+disqus: peruvian0311
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
