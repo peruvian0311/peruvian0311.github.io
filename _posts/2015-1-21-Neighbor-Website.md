@@ -2,4 +2,4 @@
 layout: post 
 ---
 
-Check out My [joel](https://jhermida.github.io)
+Check out [Joel's Website](https://jhermida.github.io)
