@@ -10,6 +10,6 @@ layout: page
 
 [![beelives](https://farm8.staticflickr.com/7329/16182973519_cc751e293d_b.jpg "Rachel Hidalgo")](https://peruvian0311.github.io/2015-1-23-Beelives)
 
-[![Mag Cover](https://farm8.staticflickr.com/7332/16183505447_2a915b4d02_b.jpg)](https://peruvian0311.github.io
+[![Mag Cover](https://farm8.staticflickr.com/7332/16183505447_2a915b4d02_b.jpg)](https://peruvian0311.github.io/2015-1-25-Beelives-Mag-Cover)
 
 ### Graphic|Web|Print
