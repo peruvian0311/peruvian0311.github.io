@@ -2,7 +2,7 @@
 layout: page
 ---
 
-[![The Legend](https://farm8.staticflickr.com/7297/16181186898_71c5309d94_b.jpg)](http://usmarineraiders.org/raider-foundation/history/)
+[![The Legend](https://farm8.staticflickr.com/7297/16181186898_71c5309d94_b.jpg"Click here for info")](http://usmarineraiders.org/raider-foundation/history/)
 
 In memory of the elite force of marines formed in WWII. I have designed this Poster with the name of all those who have 
 continued the legacy since WWII.
