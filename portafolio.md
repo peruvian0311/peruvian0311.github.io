@@ -12,6 +12,6 @@ layout: page
 
 [![Mag Cover](https://farm8.staticflickr.com/7332/16183505447_2a915b4d02_b.jpg)](https://peruvian0311.github.io/2015-1-25-Beelives-Mag-Cover)
 
-[![DNA]](https://peruvian0311.github.io/2015-1-25-DNA-clothing)
+[![DNA](https://farm8.staticflickr.com/7352/16181849258_555ee2b426_b.jpg "Coming soon")](https://peruvian0311.github.io/2015-1-25-DNA-clothing)
 
 ### Graphic|Web|Print
