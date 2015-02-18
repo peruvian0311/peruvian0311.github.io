@@ -1,5 +1,5 @@
 ---
 layout: post
-title: headlines
+title: Headlines
 ---
 Little Known Ways to Clean Organically
