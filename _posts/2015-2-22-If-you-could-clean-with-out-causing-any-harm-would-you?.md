@@ -14,3 +14,5 @@ in price with any known brand and also has better results. I tested the glass cl
 and it was a one-wipe movement. The days of wasting paper towels are over, because one simple 
 pass will leave it streak free.   The bright side of cleaning has arrived and now that you 
 know the solution to your cleaning needs, when will you go get yours?
+
+[Clean Safely Now!!](http://casanaturaproducts.com)
