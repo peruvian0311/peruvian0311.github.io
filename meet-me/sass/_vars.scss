@@ -1,40 +1,67 @@
-$color-bg:					#f3f6fa;
-$color-fg:					#7c8081;
+// Mixins.
+	@mixin padding($tb, $lr, $pad: (0,0,0,0)) {
+		padding: ($tb + nth($pad,1)) ($lr + nth($pad,2)) max(0.1em, $tb - $size-element-margin + nth($pad,3)) ($lr + nth($pad,4));
+	}
 
-$color-border:				transparentize($color-fg, 0.8);
+	@mixin minHeight($tb, $pad) {
+		min-height: calc( 100vh - #{ $tb + (($tb - $size-element-margin) + $pad) } );
+	}
 
-$color-header-bg:			#fff;
-$color-header-fg:			inherit;
-$color-header-alt-bg:		transparent;
-$color-header-alt-fg:		#fff;
+// Misc.
+	$zindex-loader-overlay: 10000;
 
-$color-banner-bg:			#898786;
-$color-banner-fg:			#fff;
-$color-banner-inner-bg:		#341b2b;
-$color-banner-inner-fg:		#fff;
+// Duration.
+	$duration-transition:		0.2s;
+	$duration-loader-fadein:	1s;
+	$duration-bg-fadein:		0.5s;
 
-$color-footer-bg:			#E8EEF4;//#e2e5e8;
-$color-footer-fg:			#7c8081;
+// Size.
+	$size-element-height:		3em;
+	$size-element-margin:		2em;
 
-$color-one-bg:				#83d3c9;
-$color-one-fg:				#fff;
-$color-two-bg:				#fff;
-$color-two-fg:				inherit;
-$color-three-bg:			#645862;
-$color-three-fg:			#fff;
+// Font.
+	$font-family:				'Raleway', 'Helvetica', sans-serif;
+	$font-family-fixed:			'Courier New', monospace;
+	$font-weight:				400;
+	$font-weight-bold:			700;
+	$font-weight-heavy:			800;
 
-$color-navPanel-bg:			#1c2021;
-$color-navPanel-fg:			#fff;
-$color-navButton-bg:		rgba(163,169,170,0.75);
-$color-navButton-fg:		#fff;
+// Color.
+	$color-bg:					#fff;
+	$color-fg:					#6f7577;
+	$color-fg-bold:				#61686b;
+	$color-fg-light:			#a8b0b3;
+	$color-fg-lighter:			#e8f0f3;
+	$color-border:				#dddddd;
+	$color-border-bg:			rgba(144,144,144,0.075);
+	$color-border2:				#d3d3d3;
+	$color-border2-bg:			rgba(144,144,144,0.15);
 
-$color-twitter-bg:			#70aecd;
-$color-twitter-fg:			#fff;
-$color-facebook-bg:			#7490c3;
-$color-facebook-fg:			#fff;
-$color-google-plus-bg:		#db6b67;
-$color-google-plus-fg:		#fff;
-$color-github-bg:			#dcad8b;
-$color-github-fg:			#fff;
-$color-dribbble-bg:			#da83ae;
-$color-dribbble-fg:			#fff;
+	$color-alt-fg-bold:			#ffffff;
+	$color-alt-fg:				rgba(255,255,255,0.5);
+	$color-alt-fg-light:		rgba(255,255,255,0.35);
+	$color-alt-fg-lighter:		rgba(255,255,255,0.2);
+	$color-alt-border:			#ffffff;
+	$color-alt-border-bg:		rgba(255,255,255,0.075);
+	$color-alt-border2:			#ffffff;
+	$color-alt-border2-bg:		rgba(255,255,255,0.15);
+
+	$color-accent-bg:			#8cd1a8;
+	$color-accent-fg-bold:		#ffffff;
+	$color-accent-fg:			mix($color-accent-bg, $color-accent-fg-bold, 25%);
+	$color-accent-fg-light:		mix($color-accent-bg, $color-accent-fg-bold, 40%);
+	$color-accent-fg-lighter:	mix($color-accent-bg, $color-accent-fg-bold, 90%);
+	$color-accent-border:		rgba(255,255,255,0.25);
+	$color-accent-border-bg:	rgba(255,255,255,0.075);
+	$color-accent-border2:		rgba(255,255,255,0.5);
+	$color-accent-border2-bg:	rgba(255,255,255,0.2);
+
+	$color-accent2-bg:			#313a3d;
+	$color-accent2-fg-bold:		#ffffff;
+	$color-accent2-fg:			mix($color-accent2-bg, $color-accent2-fg-bold, 25%);
+	$color-accent2-fg-light:	mix($color-accent2-bg, $color-accent2-fg-bold, 40%);
+	$color-accent2-fg-lighter:	mix($color-accent2-bg, $color-accent2-fg-bold, 90%);
+	$color-accent2-border:		rgba(255,255,255,0.25);
+	$color-accent2-border-bg:	rgba(255,255,255,0.075);
+	$color-accent2-border2:		rgba(255,255,255,0.5);
+	$color-accent2-border2-bg:	rgba(255,255,255,0.2);
