@@ -3,7 +3,7 @@ layout: post
 ---
 
 Chose from any of our great services below
-<table width="200" border="1">
+<table border="1">
   <tbody>
     <tr>
       <td>SERVICE </td>
