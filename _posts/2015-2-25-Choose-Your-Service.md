@@ -2,7 +2,9 @@
 layout: post
 ---
 
-
+<body><table width="200" border="1">
+  <tbody>
+    <tr>
       <td>SERVICE </td>
       <td>TYPICAL </td>
       <td>LEGENDARY</td>
@@ -21,7 +23,10 @@ layout: post
       <td><p>$100+</p>
         <p>(price may vary with finishing coat of choice) </p></td>
     </tr>
-  
+  </tbody>
+</table>
+</body>
+
 
 
 
