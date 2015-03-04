@@ -2,7 +2,7 @@
 layout: post
 ---
 
-body><table width="200" border="1">
+<table width="200" border="1">
   <tbody>
     <tr>
       <td>SERVICE </td>
@@ -25,6 +25,6 @@ body><table width="200" border="1">
     </tr>
   </tbody>
 </table>
-</body>
+
 
 
