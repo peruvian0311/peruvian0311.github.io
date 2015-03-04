@@ -1,6 +1,12 @@
 ---
 layout: post
 ---
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
 
 <body><table width="200" border="1">
   <tbody>
@@ -27,7 +33,5 @@ layout: post
 </table>
 </body>
 </html>
-
-
 
 
