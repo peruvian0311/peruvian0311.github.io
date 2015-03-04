@@ -1,3 +1,8 @@
+---
+layout: post
+---
+
+
 <table width="200" border="1">
   <tbody>
     <tr>
