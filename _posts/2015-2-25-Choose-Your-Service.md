@@ -2,8 +2,8 @@
 layout: post
 ---
 
-Chose from any of our great services below
-<!-- more -->
+We provide a number of services to meet our client's needs. The services range from Graphic Design, Logo Design and editing, Business Card Design, Business Card editing, and more. Chose from any of our great services below
+
 <table border="1">
   <tbody>
     <tr>
