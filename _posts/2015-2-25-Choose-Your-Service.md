@@ -3,6 +3,7 @@ layout: post
 ---
 
 Chose from any of our great services below
+<!-- more -->
 <table border="1">
   <tbody>
     <tr>
