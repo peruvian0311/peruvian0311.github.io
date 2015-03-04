@@ -1,6 +1,3 @@
----
-layout: post
----
 <!doctype html>
 <html>
 <head>
