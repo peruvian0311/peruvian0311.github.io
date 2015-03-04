@@ -26,6 +26,7 @@ layout: post
   </tbody>
 </table>
 </body>
+</html>
 
 
 
