@@ -1,10 +1,4 @@
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Untitled Document</title>
-</head>
-
-<body><table width="200" border="1">
+<table width="200" border="1">
   <tbody>
     <tr>
       <td>SERVICE </td>
@@ -27,7 +21,4 @@
     </tr>
   </tbody>
 </table>
-</body>
-</html>
-
 
