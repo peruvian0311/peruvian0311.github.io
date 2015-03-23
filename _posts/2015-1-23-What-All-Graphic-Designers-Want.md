@@ -9,7 +9,7 @@ Often, we as graphic designers want to create something that is far more advance
 Have you ever looked at something and thought, "That would look awesome in vector," but didn't know where to even start? 
 This tutorial will answer questions and show you the shortcuts and tricks on learning to see in vector and be able to render pretty much anything in vector.
 
-https://cms-assets.tutsplus.com/uploads/users/33/posts/23514/image/negative_1.jpg
+![alt txt]https://cms-assets.tutsplus.com/uploads/users/33/posts/23514/image/negative_1.jpg
 
 **New Course: Nature-Inspired Text Effects in Adobe Photoshop**
 
