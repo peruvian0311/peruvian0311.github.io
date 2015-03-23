@@ -9,10 +9,12 @@ Often, we as graphic designers want to create something that is far more advance
 Have you ever looked at something and thought, "That would look awesome in vector," but didn't know where to even start? 
 This tutorial will answer questions and show you the shortcuts and tricks on learning to see in vector and be able to render pretty much anything in vector.
 
-![alt txt]https://cms-assets.tutsplus.com/uploads/users/33/posts/23514/image/negative_1.jpg
+![alt txt](https://cms-assets.tutsplus.com/uploads/users/33/posts/23514/image/negative_1.jpg)
 
 **New Course: Nature-Inspired Text Effects in Adobe Photoshop**
 
 Always wondered how to get cool effects on text and make it part of a nature scenery? Not only will you learn to achieve text effect with grass, ice and fire, but also yiu will get familiar with incorporating and analyzing a real life effect and making it come to life in Photoshop.
+
+![alt txt](
 
 Having a website that can teach us everything related to our career is a great source. On most tutorials there is videos, which is easier on some individuals that’s learn visually. Everything is broken down into simple steps and even picture steps that show you directly were to click or do. It cannot get any better than this.
