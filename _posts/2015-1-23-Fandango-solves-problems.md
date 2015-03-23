@@ -7,6 +7,8 @@ There is always a feeling of wonder when it comes to going to the movie theater,
 
 Will Ferrell and Kevin Hart headline this Warner Bros. comedy about a wrongfully convicted investment banker who prepares for prison life with the help of the man who washes his car. Etan Cohen directs, with Ian Roberts and Jay Martel handling screenwriting duties. ~ Jason Buchanan, Rovi
 
+![alt txt](http://images.fandango.com/r96.1/ImageRenderer/164/250/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/179314/get-hard-poster.jpg)
+
 [GET HARD FANDANGO PREVIEW](http://www.fandango.com/gethard_179314/movieoverview)
 
 **Cinderella**
