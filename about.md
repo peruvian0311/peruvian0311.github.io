@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Top Quality work at affordable prices. It is now easier and cheaper then ever to get your high quality and effective designs.
 
-### More Information
+### Who Are we?
 
-A place to include any other types of information that you'd like to include about yourself. 
+We are a well rounded team decicated to graphic and web content editing. Founded in Miami and solving clients problems since 2008.
 
-### Contact me
+
+### We are here to help. act now!
 
 [email@domain.com](mailto:email@domain.com)
