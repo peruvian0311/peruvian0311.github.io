@@ -11,6 +11,6 @@ Top Quality work at affordable prices. It is now easier and cheaper then ever to
 We are a well rounded team decicated to graphic and web content editing. Founded in Miami and solving clients problems since 2008.
 
 
-### We are here to help. act now!
+### We are here to help. 
 
-[email@domain.com](mailto:email@domain.com)
+[Dont be Afraid All We Do is Help!](mailto:juan.nunez021@gmail.com)
