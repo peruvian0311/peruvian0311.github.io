@@ -18,7 +18,7 @@ Democrats plan to place climate change, and the GOP’s skepticism, front and ce
 In Miami Beach, which floods even on sunny days, the concern is palpable. On a recent afternoon, McKenzie pulled out his iPad and flipped through photos from a 2009 storm. In one, two women kayak through knee-high water in the center of town.
 
 
-“This is not a future problem. It’s a current problem,” said Leonard Berry, director of the Florida Center for Environmental Studies at Florida Atlantic University and a contributing author of the National Climate Assessment, which found that sea levels have risen about 8 inches in the past century.
+*“This is not a future problem. It’s a current problem,”* said Leonard Berry, director of the Florida Center for Environmental Studies at Florida Atlantic University and a contributing author of the National Climate Assessment, which found that sea levels have risen about 8 inches in the past century.
 *Miami Beach is expected to spend $400 million on an elaborate pumping system to cope with routine flooding. To the north, Fort Lauderdale has shelled out millions to restore beaches and a section of coastal highway after Hurricane Sandy and other storms breached the city’s concrete sea wall. Hallandale Beach, which lies on the Atlantic Coast between the two cities, has abandoned six of its eight drinking water wells because of encroaching seawater.*
 
 
